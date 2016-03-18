@@ -1,7 +1,7 @@
 <%@ taglib uri="http://java.sun.com/jsf/html" prefix="html"%>
 <%@ taglib uri="http://java.sun.com/jsf/core" prefix="core"%>
-<orion:form controllerRef="rechercheExportMobiloscopeFC"
-	type="fr.gouv.agriculture.dag.agorha.business.view.mobilite.mobiloscope.RechercheEtExportMobiloscopeView">
+<orion:form controllerRef="rechercheExportMobiloscopeFC">
+
 	<html:panelGrid style="width:780px;">
 		<html:panelGrid columns="3" cellpadding="0" cellspacing="0">
 			<html:panelGrid>
