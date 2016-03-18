@@ -2,8 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsf/core" prefix="core"%>
 <%@ taglib uri="http://agriculture.gouv.fr/orion/jsf/html"
 	prefix="orion"%>
-<%@ taglib uri="http://agriculture.gouv.fr/orion/jsf/html/async"
-	prefix="orion-async"%>
+
 
 
 <orion:form controllerRef="creationSuiviPosteAffectationPonctuelleFC"
