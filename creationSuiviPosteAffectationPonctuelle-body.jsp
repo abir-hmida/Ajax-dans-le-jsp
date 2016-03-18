@@ -1,7 +1,5 @@
 <%@ taglib uri="http://java.sun.com/jsf/html" prefix="html"%>
 <%@ taglib uri="http://java.sun.com/jsf/core" prefix="core"%>
-<%@ taglib uri="http://agriculture.gouv.fr/orion/jsf/html"
-	prefix="orion"%>
 
 
 
