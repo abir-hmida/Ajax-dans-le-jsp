@@ -1,10 +1,5 @@
 <%@ taglib uri="http://java.sun.com/jsf/html" prefix="html"%>
 <%@ taglib uri="http://java.sun.com/jsf/core" prefix="core"%>
-<%@ taglib uri="http://agriculture.gouv.fr/orion/jsf/html"
-	prefix="orion"%>
-<%@ taglib uri="http://agriculture.gouv.fr/orion/jsf/html/async"
-	prefix="orion-async"%>
-
 
 <orion:form controllerRef="creationPosteCirculaireHensFC"
 	type="fr.gouv.agriculture.dag.agorha.business.view.mobilite.poste.creation.CreationPosteCirculaireHensFormView"
